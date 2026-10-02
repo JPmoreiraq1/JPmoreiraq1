@@ -1,7 +1,6 @@
 # Olá, eu sou o João Pedro 👋
 
 > 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-> 💻 Desenvolvedor focado em soluções web, mobile e banco de dados.
 
 ---
 
