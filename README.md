@@ -1,15 +1,15 @@
-# Olá, eu sou o JP 👋
+# Olá, eu sou o João Pedro Alves Moreira 👋
 
 > 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-> 💻 Focado em desenvolvimento de software, mobile e aplicações web.
+> 💻 Desenvolvedor focado em soluções web, mobile e banco de dados.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas.
-- 💡 Apaixonado por tecnologia, desenvolvimento e resolução de problemas.
-- 🎯 Atualmente aprofundando conhecimentos em desenvolvimento de software e banco de dados.
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 💡 Buscando constante evolução técnica e boas práticas de engenharia de software.
+- 🎯 Foco atual em desenvolvimento full-stack, mobile e modelagem de banco de dados.
 
 ---
 
@@ -39,6 +39,9 @@
 
 ### 📫 Conecte-se comigo
 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-moreira-120b9738b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="mailto:jp.moreira.pessoal@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
