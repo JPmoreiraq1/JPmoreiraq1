@@ -3,19 +3,20 @@
 <p align="left">
   <img src="https://img.shields.io/badge/📍_Localização-Londrina,_PR-007ACC?style=flat-square" alt="Localização" />
   <img src="https://img.shields.io/badge/🎓_Formação-ADS-2ea44f?style=flat-square" alt="Formação" />
-  <img src="https://img.shields.io/badge/💼_Status-Aberto_a_oportunidades-blueviolet?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/💼_Oportunidades-Londrina_e_Região_|_Remoto-blueviolet?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/⚙️_Interesse-Servidores_&_Back--end-ff69b4?style=flat-square" alt="Servidores" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por resolver problemas reais através da tecnologia e do desenvolvimento de software.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia, desenvolvimento de software e com grande entusiasmo pela área de **Servidores, Infraestrutura e Back-end**.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 📍 Baseado em **Londrina, Paraná — Brasil**.
-- 💼 **Em busca de oportunidades:** Aberto a desafios na área de tecnologia (Estágio / Júnior / Trainee), com foco em desenvolvimento Full Stack, Front-end, Back-end ou Mobile.
-- 💡 Foco em aprender continuamente boas práticas de arquitetura de software, código limpo e desenvolvimento de sistemas eficientes e escaláveis.
+- 📍 Residente em **Londrina — PR**.
+- 💼 **Busca Profissional:** Ativamente em busca de oportunidades em **Londrina e região** (presencial/híbrido) ou **remoto** nas áreas de Back-end, Servidores/Infraestrutura, Full Stack e Desenvolvimento de Software (Estágio / Júnior).
+- ⚙️ **Foco & Interesses:** Configuração e gerenciamento de servidores, Linux, redes, arquitetura de APIs, banco de dados e resolução de problemas estruturais.
 
 ---
 
@@ -25,10 +26,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
   <tr>
     <td width="100%">
       <h3>🍽️ Pratô</h3>
-      <p>Projeto de destaque com foco em experiência do usuário, soluções práticas e desenvolvimento moderno de aplicações.</p>
+      <p>Projeto em desenvolvimento com foco em experiência do usuário, boas práticas de arquitetura e comunicação eficiente entre cliente e servidor.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-brightgreen?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Foco-Full_Stack_/_Mobile-blue?style=flat-square" alt="Foco" />
+        <img src="https://img.shields.io/badge/Foco-Full_Stack_/_Mobile_/_Servidor-blue?style=flat-square" alt="Foco" />
       </p>
     </td>
   </tr>
@@ -38,12 +39,20 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 
 ### 🛠️ Tecnologias & Habilidades
 
+#### 🖥️ Servidores, Infra & Back-end
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
 #### 💻 Linguagens de Programação
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
@@ -54,17 +63,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Back-end & Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
 #### 🔧 Ferramentas & Práticas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal_/_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
